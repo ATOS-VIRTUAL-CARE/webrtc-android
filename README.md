@@ -24,4 +24,5 @@ dependencies {
 ## Description
 
 This is precompiled google webrtc library for android, [https://webrtc.org/](https://webrtc.org/).
-[repo branch](https://github.com/ATOS-VIRTUAL-CARE/webrtc-android/tree/repo)
+
+WebRTC [license](https://webrtc.org/support/license#software_license)
