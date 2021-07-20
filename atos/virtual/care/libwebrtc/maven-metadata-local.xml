@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>atos.virtual.care</groupId>
+  <artifactId>libwebrtc</artifactId>
+  <versioning>
+    <release>M90</release>
+    <versions>
+      <version>M90</version>
+    </versions>
+    <lastUpdated>20210720190441</lastUpdated>
+  </versioning>
+</metadata>
